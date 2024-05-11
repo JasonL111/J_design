@@ -186,7 +186,14 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   This product includes software components from the Bootstrap examples and Astro projects, which are both licensed under the MIT License. For details on the MIT License, please visit https://mit-license.org/.
+   This product was developed using Bootstrap, Astro, and Iconify for icons. All these components are licensed under the MIT License.
+
+   - Bootstrap, copyrighted by The Bootstrap Authors (2011-2024), available at https://github.com/twbs/bootstrap
+   - Bootstrap Examples, copyrighted by Bootstrap (2022), available at https://github.com/twbs/examples
+   - Astro, copyrighted by Fred K. Schott (2021), available at https://github.com/withastro/astro
+   - Iconify, copyrighted by Vjacheslav Trushkin(2021-PRESENT ), available at https://github.com/iconify/iconify
+   Copyright (c) 2024 by JasonL111(https://github.com/JasonL111). This project is licensed under the Apache License, Version 2.0. For details on the Apache License, see http://www.apache.org/licenses/LICENSE-2.0.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
